@@ -1,0 +1,8 @@
+customtkinter
+pypdf
+img2pdf
+Pillow
+pymupdf
+pywin32
+tkinterdnd2
+pyinstaller
